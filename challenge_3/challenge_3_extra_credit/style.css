@@ -1,0 +1,33 @@
+h1 {
+    font-family: Helvetica;
+    text-align: center;
+}
+
+img {
+    width: 100px;
+}
+
+#big_div {
+    margin: auto;
+    border: 5px solid black;
+    width: 516px;
+    display: flex;
+}
+
+#a {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+}
+
+#c {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+#d {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
